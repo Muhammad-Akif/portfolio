@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Noakhali Government College',
+        institution: 'Comsats University Islamabad',
         course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
-    },
-    {
-        id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
-        course: 'Higher Secondary',
-        startYear: '2018',
+        startYear: '2016',
         endYear: '2020'
     },
     {
+        id: 2,
+        institution: 'F.G Liaquat Ali Degree College',
+        course: 'Higher Secondary',
+        startYear: '2014',
+        endYear: '2016'
+    },
+    {
         id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
+        institution: 'Pakistan National School System',
         course: 'Secondary School',
-        startYear: '2008',
-        endYear: '2018'
+        startYear: '2012',
+        endYear: '2014'
     },
 ]
